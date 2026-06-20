@@ -3,7 +3,7 @@
 # Transformer Analysis and Performance Evaluation
 
 ## Project Overview
-This project focuses on the analysis and performance evaluation of an electrical transformer using engineering calculations and MATLAB-based data processing. The study investigates key transformer characteristics such as efficiency, voltage regulation, losses, and load performance to understand transformer behavior under different operating conditions.
+This project focuses on the analysis and performance evaluation of an electrical transformers using engineering calculations and MATLAB-based data processing. The study investigates key transformer characteristics such as efficiency, voltage regulation, losses, and load performance to understand transformer behavior under different operating conditions.
 
 ## Objectives
 - Analyze transformer operating principles and characteristics.
